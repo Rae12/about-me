@@ -22,8 +22,8 @@
 ![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
 ![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
 
-### 🐍 Contribution Graph:
-![Snake animation](https://github.com/Rae12/Rae12/blob/output/github-contribution-grid-snake.svg)
+![Maven](https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=maven&logoColor=black)
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
