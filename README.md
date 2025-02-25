@@ -21,7 +21,8 @@
 ### 🛠 Tech Stack:
 ![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
 ![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
-![Jenkins Build](https://img.shields.io/jenkins/build?style=social&logoColor=red)
+![Jenkins Build](https://img.shields.io/jenkins/build?style=social&logoColor=red&logoSize=auto&label=healthiness&color=fedcba&cacheSeconds=3600)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
