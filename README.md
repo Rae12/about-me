@@ -6,15 +6,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=radical)
 
 # 🚀 About Me
-👋Hey I'm RaVon but everyone calls me Rae', I'm new to Gihub🙊. Looking forward to sharing my work & recieving feedback with you guys!
-
-💪Currently working as a Junior Data Analyst, wanting to gain more insight on my projects I will be sharing & perfecting my skills as growing in my career.👩‍💻 
-
-~ I can't wait to get more familiar with this tool & upload some of my past projects.😁
-
-~ Hopefully I can use as portfolio for future careers.👩‍💻
-
-🧠Interested in random research data analysis for fun, as well as developing web page applications📑 & PC video games👾. 
+📜🎓 Bachelors Degree in Information Technology - Univ. Houston Clear-Lake
+🔒 Post Graduate Diploma in Computer Information Systems
+📌 Cloudberry QA Course
+📌 Continuous Testing with GitHub Actions
+📌 CI/CD & Automation Integration - Jenkins
+📌 Frontend Testing usign Selenium WebDriver
+📌 Mobile Testing with Android SDK & iOS
+📌  
+📌
+ 
 
 📧You can reach me ravon_rhone@yahoo.com
 🥃Cheers!
@@ -26,6 +27,15 @@
 ![Maven](https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=maven&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## 🛠 Languages & Frameworks:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
