@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python%20%20-blue)
 ![Java](https://img.shields.io/badge/Java%20%20-purple)
 ![C++](https://img.shields.io/badge/C++%20%20-teal)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-23%20%20-salmon)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rae12&color=blue)
