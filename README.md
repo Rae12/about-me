@@ -1,4 +1,10 @@
 # about-me
+
+### 📊 GitHub Stats:
+![AntoniHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rae12&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rae12&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=radical)
+
 👋Hey I'm RaVon but everyone calls me Rae', I'm new to Gihub🙊. Looking forward to sharing my work & recieving feedback with you guys!
 
 💪Currently working as a Junior Data Analyst, wanting to gain more insight on my projects I will be sharing & perfecting my skills as growing in my career.👩‍💻 
