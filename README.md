@@ -26,7 +26,7 @@
 ## 🛠 Languages & Frameworks:
 ![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
 ![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
-![Mavem](https://img.shields.io/badge/maven%20%20-8A2BE2)
+![Mavem](https://img.shields.io/badge/maven%20%20-orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
