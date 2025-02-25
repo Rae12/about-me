@@ -19,11 +19,10 @@
 🥃Cheers!
 
 ### 🛠 Tech Stack:
-
-![Jenkins Build](https://img.shields.io/jenkins/build?jobUrl=https://ci.example.com/job/my-project)
 ![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
 ![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
-![Maven Build](https://img.shields.io/jenkins/build?jobUrl=https://ci.example.com/job/my-maven-project)
+![Jenkins Build](https://img.shields.io/jenkins/build?style=social&logoColor=red)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
