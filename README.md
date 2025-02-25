@@ -29,7 +29,7 @@
 ![Maven](https://img.shields.io/badge/Maven%20%20-orange)
 ![Python](https://img.shields.io/badge/Python%20%20-blue)
 ![Java](https://img.shields.io/badge/Java%20%20-purple)
-![C++](https://img.shields.io/badge/C++%20%20-lemon)
+![C++](https://img.shields.io/badge/C++%20%20-pink)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
