@@ -6,6 +6,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=radical)
 
 # 🚀 About Me
+
 📜🎓 Bachelors Degree in Information Technology - Univ. Houston Clear-Lake
 🔒 Post Graduate Diploma in Computer Information Systems
 📌 Cloudberry QA Course
