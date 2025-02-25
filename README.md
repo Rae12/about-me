@@ -20,22 +20,19 @@
 📧You can reach me ravon_rhone@yahoo.com
 🥃Cheers!
 
-### 🛠 Tech Stack:
-![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
-![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
-
-![Maven](https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=maven&logoColor=black)
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🛠 Tech Stack
 
 ## 🛠 Languages & Frameworks:
+![Selenium Status](https://img.shields.io/badge/Selenium-Passing-green?logo=selenium)
+![Selenium Version](https://img.shields.io/badge/Selenium-4.18-blue?logo=selenium)
+![Maven](https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=maven&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
