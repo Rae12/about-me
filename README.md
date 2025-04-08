@@ -1,7 +1,7 @@
 ⚠️‼️Under Construction‼️⚠️
 
 ### 📊 GitHub Stats:
-![AntoniHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rae12&show_icons=true&theme=radical)
+![Rae12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rae12&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rae12&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=radical)
 
