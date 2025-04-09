@@ -98,7 +98,7 @@ I'm actively looking for opportunities to grow as a QA Automation Analyst. Let�
 - **📧 Email:** ravon_rhone@yahoo.com  
 - **📍 Location:** LaMarque, TX  
 - **📞 Phone:** (409) 795-0659  
-- **🔗 LinkedIn:** www.linkedin.com/in/ravon-rhone-b2083bbb  
+- **🔗 LinkedIn:** www.linkedin.com/in/rrhone-qa  
 
 Thanks for visiting my GitHub!
 ---
