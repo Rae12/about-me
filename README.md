@@ -5,9 +5,9 @@ Welcome to my GitHub! I'm a tech-savvy, detail-driven QA Analyst with a backgrou
 
 
 ### 📊 GitHub Stats:
-![Rae12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rae12&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rae12&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=radical)
+![Rae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rae12&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae12&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rae12&theme=tokyonight)
 ---
 # 🚀 About Me
 From support technician to QA analyst, my journey has been about one thing: making technology work better for people. I’m not just passionate about clean code—I care about *why* it matters. Through customer service, internal training, and deep-dives into automation frameworks, I’ve developed a sharp eye for detail and a strong instinct for collaboration.
@@ -83,7 +83,12 @@ College of the Mainland
 - Digital	Assurance	&	Transparency	Simulation - PricewaterhouseCoopers (2024)
 - Data Analytics - Google (2023)**
 ---
-
+### 🏀 Fun Facts
+- Loves breaking & fixing things (on purpose).
+- Ball is life — serious about **basketball**.
+- Big on **gaming** (let's talk favorite titles!).
+- Smooth with the **saxophone** — music & code go hand in hand.
+---
 ## 📫 Let’s Connect!
 <p>
   <a href="https://github.com/Rae12"><img src="https://img.shields.io/badge/GitHub-Rae12-181717?style=for-the-badge&logo=github"></a>
@@ -93,8 +98,7 @@ I'm actively looking for opportunities to grow as a QA Automation Analyst. Let�
 - **📧 Email:** ravon_rhone@yahoo.com  
 - **📍 Location:** LaMarque, TX  
 - **📞 Phone:** (409) 795-0659  
-- **🔗 LinkedIn:** [Add your LinkedIn URL here]  
-- **🧑‍💻 Portfolio Projects:** [Link to your repo folders or live demos if available]
+- **🔗 LinkedIn:** [www.linkedin.com/in/ravon-rhone-b2083bbb]  
 
 Thanks for visiting my GitHub!
 ---
