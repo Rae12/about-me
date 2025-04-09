@@ -1,4 +1,4 @@
-<img src="https://github.com/Rae12/Rae12/blob/main/banner.png" alt="Rae GitHub Banner" style="width:100%;"/>
+# 👋 Hi, I'm Ravon Rhone
  
 ### 💼 Quality Assurance Analyst | IT Support Specialist | Passionate Problem Solver  
 
