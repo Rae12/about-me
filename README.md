@@ -37,6 +37,8 @@ I recently completed a **QA Automation Bootcamp with Cloudberry** where I learne
 ### 🛠 Tech Stack
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.io/)
+[![TESTNG](https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge&logo=testng&logoColor=white)](https://testng.com/)
 [![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -64,17 +66,6 @@ An intensive 4-week program where I:
 - Troubleshot technical issues with clients and translated feedback into product improvements  
 - Bridged communication between technical teams and users to increase platform usability  
 - Promoted to QA team after identifying recurring client issues and proposing long-term solutions
-
----
-### ⚙️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 ---
 ## 🎓 Education
 
