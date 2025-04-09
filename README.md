@@ -66,7 +66,16 @@ An intensive 4-week program where I:
 - Promoted to QA team after identifying recurring client issues and proposing long-term solutions
 
 ---
-
+### ⚙️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+---
 ## 🎓 Education
 
 **B.S. Information Technology**  
@@ -98,7 +107,7 @@ I'm actively looking for opportunities to grow as a QA Automation Analyst. Let�
 - **📧 Email:** ravon_rhone@yahoo.com  
 - **📍 Location:** LaMarque, TX  
 - **📞 Phone:** (409) 795-0659  
-- **🔗 LinkedIn:** [www.linkedin.com/in/ravon-rhone-b2083bbb]  
+- **🔗 LinkedIn:** www.linkedin.com/in/ravon-rhone-b2083bbb  
 
 Thanks for visiting my GitHub!
 ---
