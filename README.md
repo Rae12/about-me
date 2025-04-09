@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ravon Rhone  
+<img src="https://github.com/Rae12/Rae12/blob/main/banner.png" alt="Rae GitHub Banner" style="width:100%;"/>
+ 
 ### 💼 Quality Assurance Analyst | IT Support Specialist | Passionate Problem Solver  
 
 Welcome to my GitHub! I'm a tech-savvy, detail-driven QA Analyst with a background in IT support, automation, and client-focused problem-solving. I bring a blend of hands-on technical knowledge and a deep commitment to improving user experience. Whether it's tracking bugs, building automation scripts, or supporting teams through training—I bring energy, empathy, and precision to the work I do.
