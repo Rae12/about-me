@@ -85,7 +85,9 @@ College of the Mainland
 ---
 
 ## 📫 Let’s Connect!
-
+<p>
+  <a href="https://github.com/Rae12"><img src="https://img.shields.io/badge/GitHub-Rae12-181717?style=for-the-badge&logo=github"></a>
+</p>
 I'm actively looking for opportunities to grow as a QA Automation Analyst. Let’s connect and build something great!
 
 - **📧 Email:** ravon_rhone@yahoo.com  
