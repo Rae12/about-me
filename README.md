@@ -79,9 +79,9 @@ College of the Mainland
 
 ## ✅ Certification
 
-**QA Automation Bootcamp Graduate – Cloudberry (2025)**
-**Digital	Assurance	&	Transparency	Simulation - PricewaterhouseCoopers (2024)
-**Data Analytics - Google (2023)**
+- QA Automation Bootcamp Graduate – Cloudberry (2025)
+- Digital	Assurance	&	Transparency	Simulation - PricewaterhouseCoopers (2024)
+- Data Analytics - Google (2023)**
 ---
 
 ## 📫 Let’s Connect!
