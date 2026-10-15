@@ -37,7 +37,7 @@ I'm now focused on moving toward a **Network Administrator / Systems Administrat
 ## 🧪 Home Lab
 
 <!-- [EDIT] Even a small setup counts. Delete this section until you have something to list. -->
-- **Hypervisor:** [EDIT: VirtualBox / VMware / Proxmox / Hyper-V]
+- **Hypervisor:**  VirtualBox / VMware / Proxmox / Hyper-V
 - **VMs:** [EDIT: e.g. Windows Server, Ubuntu Server, Windows 11 client]
 - **Tools:** [EDIT: Packet Tracer / GNS3 / pfSense / Wireshark]
 - **What I practice:** [EDIT: e.g. DHCP/DNS, Active Directory, VLANs, connectivity troubleshooting]
